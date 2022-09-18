@@ -19,7 +19,7 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-        <Subtitle text="Turn your vision into an idea" />
+        <Subtitle text="Turn your vision into an idea with" />
         <Title text="iolabs.ug" />
         <Subtitle text="with Professional Developers & Designers who will bring it to life." />
       </footer>
