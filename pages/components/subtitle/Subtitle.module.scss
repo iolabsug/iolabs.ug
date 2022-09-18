@@ -1,0 +1,12 @@
+@import "../../../styles/variables/color.variables.scss";
+@import "../../../styles/variables/text.variables.scss";
+
+.subtitle {
+  font-family: $subtitle-font;
+  font-size: $subtitle-font-size;
+  font-weight: $subtitle-font-weight;
+  color: $subtitle-font-color;
+  text-shadow: $text-shadow;
+  width: 600px;
+  align-self: flex-end;
+}
