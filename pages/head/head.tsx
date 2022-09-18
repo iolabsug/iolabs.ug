@@ -1,8 +1,8 @@
 import Head from "next/head";
 
 const _Head = () => (
-    <Head>
-    <title>iolabs.ug</title>
+  <Head>
+    <title>iolabs.ug - outsourcing brilliance...</title>
     <meta name="description" content="iolabs.ug website" />
     <link
       rel="apple-touch-icon"
@@ -78,6 +78,6 @@ const _Head = () => (
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     <meta name="theme-color" content="#ffffff" />
   </Head>
-)
+);
 
 export default _Head;
